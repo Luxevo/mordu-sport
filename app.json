@@ -1,0 +1,26 @@
+{
+    "expo": {
+      "name": "votre-app",
+      "slug": "votre-app",
+      "version": "1.0.0",
+      "orientation": "portrait",
+      "scheme": "myapp",
+      "userInterfaceStyle": "light",
+      "platforms": [
+        "ios",
+        "android"
+      ],
+      "ios": {
+        "supportsTablet": true
+      },
+      "android": {
+        "adaptiveIcon": {
+          "foregroundImage": "./assets/adaptive-icon.png",
+          "backgroundColor": "#ffffff"
+        }
+      },
+      "plugins": [
+        "expo-router"
+      ]
+    }
+  }
